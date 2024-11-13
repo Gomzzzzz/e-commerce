@@ -28,19 +28,21 @@ Make sure the following are installed:
   pip install streamlit pandas numpy matplotlib seaborn scikit-learn lifelines mlxtend statsmodels
 
 ## Installation and Setup
-Clone the repository:
+1. Clone the repository:
 
 bash
 Copy code
 git clone https://github.com/Gomzzzzz/e-commerce.git
 
-cd ecommerce
-Run the dashboard:
+2. cd ecommerce
+
+3. Run the dashboard:
 
 bash
 Copy code
 streamlit run dashboard.py
-Access the dashboard: Open the provided local URL (e.g., http://localhost:8501) in your web browser.
+
+4. Access the dashboard: Open the provided local URL (e.g., http://localhost:8501) in your web browser.
 
 ## How to Use the Dashboard
 Use the Date Range and Category Filters to refine the analysis.
