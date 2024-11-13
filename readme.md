@@ -30,16 +30,14 @@ Make sure the following are installed:
 ## Installation and Setup
 1. Clone the repository:
 
-bash
-Copy code
+''bash
 git clone https://github.com/Gomzzzzz/e-commerce.git
 
 2. cd e-commerce
 
 3. Run the dashboard:
 
-bash
-Copy code
+''bash
 streamlit run dashboard.py
 
 4. Access the dashboard: Open the provided local URL (e.g., http://localhost:8501) in your web browser.
