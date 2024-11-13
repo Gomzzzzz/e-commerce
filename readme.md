@@ -34,7 +34,7 @@ bash
 Copy code
 git clone https://github.com/Gomzzzzz/e-commerce.git
 
-2. cd ecommerce
+2. cd e-commerce
 
 3. Run the dashboard:
 
